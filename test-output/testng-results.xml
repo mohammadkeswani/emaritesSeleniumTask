@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-15T12:07:47 EEST" name="Default suite" finished-at="2024-05-15T12:08:11 EEST" duration-ms="24470">
+    <groups>
+    </groups>
+    <test started-at="2024-05-15T12:07:47 EEST" name="Default test" finished-at="2024-05-15T12:08:11 EEST" duration-ms="24470">
+      <class name="emaritesseleniumTask">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:emaritesseleniumTask@716a7124]" started-at="2024-05-15T12:07:47 EEST" name="BeforeTest" finished-at="2024-05-15T12:07:49 EEST" duration-ms="2495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="book_ticket()[pri:1, instance:emaritesseleniumTask@716a7124]" started-at="2024-05-15T12:07:49 EEST" name="book_ticket" finished-at="2024-05-15T12:07:53 EEST" duration-ms="3824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- book_ticket -->
+        <test-method signature="assertSite_lowestPrice()[pri:2, instance:emaritesseleniumTask@716a7124]" started-at="2024-05-15T12:07:53 EEST" name="assertSite_lowestPrice" finished-at="2024-05-15T12:08:03 EEST" duration-ms="9728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertSite_lowestPrice -->
+        <test-method signature="selectFlight()[pri:3, instance:emaritesseleniumTask@716a7124]" started-at="2024-05-15T12:08:03 EEST" name="selectFlight" finished-at="2024-05-15T12:08:04 EEST" duration-ms="936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFlight -->
+        <test-method signature="passengersTab()[pri:4, instance:emaritesseleniumTask@716a7124]" started-at="2024-05-15T12:08:04 EEST" name="passengersTab" finished-at="2024-05-15T12:08:11 EEST" duration-ms="7347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passengersTab -->
+        <test-method signature="checkPrice()[pri:5, instance:emaritesseleniumTask@716a7124]" started-at="2024-05-15T12:08:11 EEST" name="checkPrice" finished-at="2024-05-15T12:08:11 EEST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPrice -->
+      </class> <!-- emaritesseleniumTask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
